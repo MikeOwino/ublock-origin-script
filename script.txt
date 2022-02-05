@@ -202,4 +202,87 @@ www.tipranks.com##.mb5.ipadpro_fontSize10.ipad_displaynone.bgAlpha10.shadow1.col
 ! 2022-01-26 https://www.youtube.com
 www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified.badge > yt-icon.ytd-badge-supported-renderer.style-scope
 www.youtube.com###country-code
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified-artist.badge > yt-icon.ytd-badge-supported-renderer.style-scope
+
+! 2022-01-27 https://www.deezer.com
+www.deezer.com##.conversion-banner
+
+! 2022-01-27 https://1337x.to
+||1337x.to/images/x28.jpg$image
+
+! 2022-01-27 https://www.seedr.cc
+www.seedr.cc##.fa-upload.fa
+www.seedr.cc###right-menu-text-icon
+www.seedr.cc###link-paste-icon
+www.seedr.cc###link-upload-form > .tiny.button
+www.seedr.cc###files-search-input
+www.seedr.cc###folder-search-form > .fa-search.fa
+
+! 2022-01-28 https://open.spotify.com
+open.spotify.com##li.DuEPSADpSwCcO880xjUG:nth-of-type(3)
+
+! 2022-01-30 https://coinmarketcap.com
+coinmarketcap.com##.honaLr.yp52q4-6
+coinmarketcap.com##.dRxMQD.sc-1oj4kco-0
+coinmarketcap.com##.bZYTpj.sc-16r8icm-0
+
+! 2022-01-30 https://www.coingecko.com
+www.coingecko.com##.d-lg-block.tw-hidden.text-center.py-3.topfooter
+www.coingecko.com##.tw-mt-12.tw-bg-dark-10
+
+! 2022-01-31 https://coinmarketcap.com
+coinmarketcap.com##.blkuuM.sc-1oj4kco-0
+coinmarketcap.com##.cGbbew.sc-16r8icm-0
+
+! 2022-02-01 https://1337x.to
+1337x.to##.l640ff14b33c71a4c0a01326796f6fdbe6dfc45d4.lc9ea4def3b2accdac4b7ce056f96dcec55fe76c9.lbc91f6fb6ea2c195ba3fb994e77eb5cdbec2c8ce
+1337x.to##nav
+1337x.to##.green.torrent-work
+1337x.to##.l3fee6f34a71b6809bf8af30fa79735f5f7fbf14f.lb8771dac432df1b99ca77c2784b000be4b44fccc.l3c654d73ef31daf9e5235ac5265a90e229c060ab
+||1337x.to/images/x68.jpg$image
+
+! 2022-02-01 http://player.181fm.com
+player.181fm.com##.container
+player.181fm.com##.share.button-dropdown--icon.button-dropdown
+||player.181fm.com/configs/images/181fm.png$image
+
+! 2022-02-01 https://pixlr.com
+pixlr.com###pop
+
+! 2022-02-02 https://web.whatsapp.com
+web.whatsapp.com##div._2cNrC:nth-of-type(1)
+web.whatsapp.com##._1RAKT
+web.whatsapp.com##.zaKsw
+
+! 2022-02-02 https://open.spotify.com
+open.spotify.com##.odcjv30UQnjaTv4sylc0
+open.spotify.com##.control-button.Wc0Ez_RFAJ2dDcMEL0K6
+
+! 2022-02-02 https://1337x.to
+1337x.to##[href="/popular-other"]
+
+! 2022-02-03 https://unsplash.com
+unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .kG7WW
+unsplash.com###app > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .kG7WW > .vNWg5
+unsplash.com##.rx4AP > .M5vdR.U8eXG.bYpwS.rJ2xz > .kG7WW > .vNWg5
+unsplash.com##.M5vdR > .vNWg5
+
+! 2022-02-03 https://www.pexels.com
+www.pexels.com##.photo-item.js-sponsored-photos
+www.pexels.com##.search__ad
+
+! 2022-02-03 https://jsfiddle.net
+jsfiddle.net###support-jsfiddle
+jsfiddle.net##.twitterCont
+jsfiddle.net##.privateFiddleCont
+
+! 2022-02-03 https://tunein.com
+tunein.com##.super-prompt-module__withCloseIcon___r0SAL.super-prompt-module__promptContainer___SvA4j
+
+! 2022-02-04 https://www.pexels.com
+www.pexels.com##.photo-page__section--sponsored-photos.photo-page__section
+www.pexels.com###after-download-advertisement > .rd__modal__overlay--centered.rd__modal__overlay.rd__modal__content-container > .rd__modal__content--with-top-bar.rd__modal__content--small.rd__modal__content
 
