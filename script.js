@@ -24,16 +24,9 @@ www.seedr.cc##body > footer
 www.seedr.cc##.text
 www.seedr.cc##.account-name
 
-! 2021-12-19 https://www.1337x.to
-||www.1337x.to/css/images/main-bg.png$image
-||www.1337x.to/css/images/main-bg.png$image
-
 ! 2021-12-20 https://decrypt.co
 decrypt.co##.jRijbv.jkxCRA.sc-xt8j06-3.sc-1ao5pjp-0
 
-! 2021-12-21 https://pixlr.com
-||pixlr.com/dad/cut/$subdocument
-||pixlr.com/dad/cut/$subdocument
 
 ! 2021-12-21 https://www.jumia.co.ke
 ||ke.jumia.is/cms/2021/WK50/Revision/KE_Cross_KrisNaJumia_JExpress_1121_STB-(1).gif$image
@@ -68,10 +61,6 @@ www.freepik.com##.price_before.banner-container.banner-detail.banner-campaign
 www.freepik.com##.price_before.banner-upper.banner-search.banner-campaign
 www.freepik.com##.pd-x-none.pd-lv3.footer__top
 www.freepik.com###footer
-
-! 2021-12-28 https://open.spotify.com
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.X7lQWw2Ly_RZVPEFj2QY.Qt5xfSWikz6CLU8Vobxs
-open.spotify.com##.WvLkmOVB2R2vzI2ibR_r.eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzvkmvhpyE.link-subtle
 
 ! 2021-12-28 https://www.binance.com
 www.binance.com##.css-1cep7gu.trade-carousel-vertical.trade-carousel
@@ -113,22 +102,8 @@ www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 web.postman.co##.requester-header__team-info__button.team-button.btn-secondary.btn
 web.postman.co##.workspace-invite-btn.btn-small.btn-secondary.btn
 
-! 2022-01-03 https://1337x.to
-||1337x.to/images/logo.svg$image
-||1337x.to/images/logo.svg$image
-1337x.to##.clearfix.box-info-heading
-1337x.to##.clearfix.box-info-detail
-1337x.to##footer
-1337x.to##.top-bar
-1337x.to##.pull-right.col-3
-1337x.to##[href="/popular-xxx"]
-1337x.to##[href="/popular-documentaries"]
-
 ! 2022-01-03 https://www.youtube.com
 www.youtube.com##.notification-button-style-type-default.ytd-masthead.style-scope
-
-! 2022-01-03 https://1337x.to
-||1337x.to/css/images/main-bg.png$image
 
 ! 2022-01-03 https://www.goojara.to
 www.goojara.to##.live
@@ -153,9 +128,6 @@ polygonscan.com##.pl-xll-5.pl-lg-4.text-center.d-lg-block.d-none
 ! 2022-01-08 https://replit.com
 replit.com##.css-1u6rog0.floating-icon-wrapper.jsx-26301316
 
-! 2022-01-08 https://1337x.to
-1337x.to##[href="/popular-anime"]
-
 ! 2022-01-08 https://www.seedr.cc
 www.seedr.cc###ultra-top
 
@@ -176,13 +148,6 @@ github.com##.mt-md-0.mt-2.flex-md-order-none.flex-order-1 > .mb-3
 
 ! 2022-01-12 https://replit.com
 replit.com##.logo-link.jsx-3980429440
-
-! 2022-01-16 https://pixlr.com
-pixlr.com###right-space
-||pixlr.com/dad/pop/$subdocument
-||pixlr.com/dad/pop/$subdocument
-||pixlr.com/dad/pop/$subdocument
-pixlr.com##.pad-20.flatbox
 
 ! 2022-01-17 http://getrevue.bloodgoodbtc.com
 getrevue.bloodgoodbtc.com###subscribe-bar
@@ -210,9 +175,6 @@ www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-veri
 ! 2022-01-27 https://www.deezer.com
 www.deezer.com##.conversion-banner
 
-! 2022-01-27 https://1337x.to
-||1337x.to/images/x28.jpg$image
-
 ! 2022-01-27 https://www.seedr.cc
 www.seedr.cc##.fa-upload.fa
 www.seedr.cc###right-menu-text-icon
@@ -220,9 +182,6 @@ www.seedr.cc###link-paste-icon
 www.seedr.cc###link-upload-form > .tiny.button
 www.seedr.cc###files-search-input
 www.seedr.cc###folder-search-form > .fa-search.fa
-
-! 2022-01-28 https://open.spotify.com
-open.spotify.com##li.DuEPSADpSwCcO880xjUG:nth-of-type(3)
 
 ! 2022-01-30 https://coinmarketcap.com
 coinmarketcap.com##.honaLr.yp52q4-6
@@ -237,32 +196,16 @@ www.coingecko.com##.tw-mt-12.tw-bg-dark-10
 coinmarketcap.com##.blkuuM.sc-1oj4kco-0
 coinmarketcap.com##.cGbbew.sc-16r8icm-0
 
-! 2022-02-01 https://1337x.to
-1337x.to##.l640ff14b33c71a4c0a01326796f6fdbe6dfc45d4.lc9ea4def3b2accdac4b7ce056f96dcec55fe76c9.lbc91f6fb6ea2c195ba3fb994e77eb5cdbec2c8ce
-1337x.to##nav
-1337x.to##.green.torrent-work
-1337x.to##.l3fee6f34a71b6809bf8af30fa79735f5f7fbf14f.lb8771dac432df1b99ca77c2784b000be4b44fccc.l3c654d73ef31daf9e5235ac5265a90e229c060ab
-||1337x.to/images/x68.jpg$image
-
 ! 2022-02-01 http://player.181fm.com
 player.181fm.com##.container
 player.181fm.com##.share.button-dropdown--icon.button-dropdown
 ||player.181fm.com/configs/images/181fm.png$image
 
-! 2022-02-01 https://pixlr.com
-pixlr.com###pop
 
 ! 2022-02-02 https://web.whatsapp.com
 web.whatsapp.com##div._2cNrC:nth-of-type(1)
 web.whatsapp.com##._1RAKT
 web.whatsapp.com##.zaKsw
-
-! 2022-02-02 https://open.spotify.com
-open.spotify.com##.odcjv30UQnjaTv4sylc0
-open.spotify.com##.control-button.Wc0Ez_RFAJ2dDcMEL0K6
-
-! 2022-02-02 https://1337x.to
-1337x.to##[href="/popular-other"]
 
 ! 2022-02-03 https://unsplash.com
 unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .kG7WW
@@ -285,4 +228,27 @@ tunein.com##.super-prompt-module__withCloseIcon___r0SAL.super-prompt-module__pro
 ! 2022-02-04 https://www.pexels.com
 www.pexels.com##.photo-page__section--sponsored-photos.photo-page__section
 www.pexels.com###after-download-advertisement > .rd__modal__overlay--centered.rd__modal__overlay.rd__modal__content-container > .rd__modal__content--with-top-bar.rd__modal__content--small.rd__modal__content
+
+! 2022-02-06 https://coinmarketcap.com
+coinmarketcap.com##div.eCWTbV.sc-1rmt1nr-1.bdEGog.sc-1uagfi2-0.sc-16r8icm-0:nth-of-type(1)
+coinmarketcap.com##div.eCWTbV.sc-1rmt1nr-1.bdEGog.sc-1uagfi2-0.sc-16r8icm-0:nth-of-type(2)
+coinmarketcap.com##div.eCWTbV.sc-1rmt1nr-1.bdEGog.sc-1uagfi2-0.sc-16r8icm-0:nth-of-type(3)
+
+! 2022-02-10 https://www.tradingview.com
+www.tradingview.com##.trial-notification-tFEg7biT.toast-305jedKL
+
+! 2022-02-11 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.X7lQWw2Ly_RZVPEFj2QY.Qt5xfSWikz6CLU8Vobxs
+open.spotify.com##li.DuEPSADpSwCcO880xjUG:nth-of-type(3)
+open.spotify.com##.WvLkmOVB2R2vzI2ibR_r.eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzvkmvhpyE.link-subtle
+
+! 2022-02-14 https://fifteen.deepafrica.com:2096
+||fifteen.deepafrica.com:2096/cpsess5014742105/3rdparty/roundcube/skins/larry/images/roundcube_logo.png?s=1631223936$image
+
+! 2022-02-16 https://open.spotify.com
+open.spotify.com##.os-host-scrollbar-vertical-hidden.os-host-transition.Rez0JfSQfN9WoWHeOUAA.os-host-scrollbar-horizontal-hidden.os-host-resize-disabled.os-theme-spotify.os-host-foreign.os-host > .os-padding > .os-viewport-native-scrollbars-invisible.os-viewport > .os-content
+
+! 2022-02-19 https://replit.com
+replit.com##.css-13m3a4i
+replit.com##.interactive.breadcrumb.jsx-3518488481
 
