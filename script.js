@@ -252,3 +252,19 @@ open.spotify.com##.os-host-scrollbar-vertical-hidden.os-host-transition.Rez0JfSQ
 replit.com##.css-13m3a4i
 replit.com##.interactive.breadcrumb.jsx-3518488481
 
+! 2022-02-22 https://1337x.to
+1337x.to##li:nth-of-type(9)
+||1337x.to/images/logo.svg$image
+||1337x.to/images/x28.jpg$image
+||1337x.to/images/x68.jpg$image
+
+! 2022-02-23 https://fifteen.deepafrica.com:2096
+||fifteen.deepafrica.com:2096/cpsess8899642447/3rdparty/roundcube/skins/larry/images/roundcube_logo.png$image
+
+! 2022-02-24 https://mail.yahoo.com
+mail.yahoo.com##.ybar-att-samsung-in-eyebrow._yb_175aq._yb_3tpc6
+mail.yahoo.com##.I_T.p_R.o_v.D_F > .ek_BB.D_F
+||s.yimg.com/rx/up/builds/8.3.133-pr1013.b40521429/ifcp.html$subdocument
+||s.yimg.com/rx/up/builds/8.3.133-pr1013.b40521429/ifcp.html$subdocument
+mail.yahoo.com##.e_dRA.r_P.q_Z281SGl.p_R
+
