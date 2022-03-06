@@ -268,3 +268,92 @@ mail.yahoo.com##.I_T.p_R.o_v.D_F > .ek_BB.D_F
 ||s.yimg.com/rx/up/builds/8.3.133-pr1013.b40521429/ifcp.html$subdocument
 mail.yahoo.com##.e_dRA.r_P.q_Z281SGl.p_R
 
+! 2022-02-24 https://www.youtube.com
+www.youtube.com##.yt-related-chip-cloud-renderer.style-scope > .yt-chip-cloud-renderer.style-scope
+
+! 2022-02-25 https://unsplash.com
+||images.unsplash.com/file-1635990775102-c9800842e1cdimage$image
+||images.unsplash.com/file-1635990775102-c9800842e1cdimage$image
+
+! 2022-02-27 https://www.youtube.com
+www.youtube.com###sponsor-button
+
+! 2022-02-28 https://e.mail.ru
+||ad.mail.ru/adf/948435?_SITEID=105&isDarkTheme=1&rounded=1&DT_bg=313131&DT_borderColor=313131&DT_bgHover=313131&DT_titleHoverColor=ffffff&DT_textColor=ffffff&DT_urlColor=9C9C9C&exp_id=391&rnd=211135381$subdocument
+||ad.mail.ru/adf/948435$subdocument
+e.mail.ru##.advert-column_indented-new-letter-list.advert-column_indented.advert-column_native-scroll.advert-column
+e.mail.ru##.layout_letter.layout_vertical-fit.layout_type_2pane.layout_size_m.layout > .layout__column_right-indented.layout__column_right.layout__column
+e.mail.ru##.iC1excE_iC1exc6.iC1exHN_iC1exUp.iC1excO_iC1exkT.iC1excE > .iC1excp_iC1excG.iC1excp_iC1excb.iC1excp
+e.mail.ru##.iC1exkm.iC1exkN > .iC1exk4.iC1exkF
+e.mail.ru##.iC1exHh_iC1exHS.iC1exHh
+e.mail.ru##.layout_vertical-fit.layout_type_2pane.layout_size_m.layout > .layout__column_right-indented.layout__column_right.layout__column
+e.mail.ru###mailru1646041449052321900 > .trg-b-banner-block.trg-b-wrap
+e.mail.ru##.letter-list-item-adv-placeholder
+e.mail.ru##.letter-list-item-adv__container_compressed.letter-list-item-adv__container
+e.mail.ru##.ReactVirtualized__Grid__innerScrollContainer > div
+e.mail.ru##.r0oBE7L_r0oBE7x.r0oBE7L_r0oBE72.r0oBE7L_r0oBE7J.r0oBE7L
+e.mail.ru##.r0oBEL8_r0oBEL3.r0oBEJS_r0oBE6q.r0oBELO_r0oBEY5.r0oBEL8 > .r0oBELq_r0oBELU.r0oBELq_r0oBELX.r0oBELq
+e.mail.ru##.HBOtIT8
+e.mail.ru##.HBOtITX_HBOtIT3.HBOtI96_HBOtIUi.HBOtITm_HBOtI1S.HBOtITX > .HBOtITi_HBOtITw.HBOtITi_HBOtITC.HBOtITi
+e.mail.ru##.jLa4fJm_jLa4fJ6.jLa4fJm_jLa4fJV.jLa4fJm_jLa4fJD.jLa4fJm
+e.mail.ru##.jLa4fmr_jLa4fmx.jLa4fDg_jLa4fte.jLa4fmh_jLa4fMH.jLa4fmr > .jLa4fme_jLa4fm2.jLa4fme_jLa4fmG.jLa4fme
+e.mail.ru##.UeTibW6
+e.mail.ru##.UeTibWx_UeTibWS.UeTibRp_UeTibrt.UeTibWl_UeTibIB.UeTibWx > .UeTibWt_UeTibWQ.UeTibWt_UeTibWY.UeTibWt
+e.mail.ru##.edHiUKY_edHiUKx.edHiUKY_edHiUK3.edHiUKY_edHiUKj.edHiUKY
+e.mail.ru##.edHiUYy_edHiUYG.edHiUjR_edHiUcL.edHiUYb_edHiUEu.edHiUYy > .edHiUYL_edHiUYX.edHiUYL_edHiUYC.edHiUYL
+e.mail.ru##.nsbPC7M_nsbPC7e.nsbPC7M_nsbPC71.nsbPC7M_nsbPC7p.nsbPC7M
+e.mail.ru##.nsbPCMl_nsbPCMv.nsbPCpV_nsbPCgd.nsbPCMX_nsbPC37.nsbPCMl > .nsbPCMd_nsbPCM6.nsbPCMd_nsbPCMr.nsbPCMd
+
+! 2022-02-28 https://unsplash.com
+||images.unsplash.com/file-1635990755334-4bfd90f37242image$image
+||images.unsplash.com/file-1635990755334-4bfd90f37242image$image
+unsplash.com##div.ripi6 > .zmDAx
+
+! 2022-03-01 https://unsplash.com
+unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .oh0KJ.dvBHu.xNKUO.OhYua.sj5of
+unsplash.com##.U8eXG.CtKee > .M5vdR
+
+! 2022-03-02 https://1337x.to
+1337x.to##.scroll-top
+
+! 2022-03-04 https://en.wikipedia.org
+en.wikipedia.org##[href="https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Africa_2022/en"]
+
+! 2022-03-05 https://1337x.to
+1337x.to##.bitcoin-text
+1337x.to##.bitcoin-icon-wrap
+1337x.to##.info
+
+! 2022-03-05 https://app.netlify.com
+app.netlify.com##.lg\:tw-order-0.lg\:tw-mt-0.lg\:tw-mr-1.lg\:tw-flex-auto.tw-order-2.tw-mt-2.tw-items-end.tw-justify-end.tw-flex-full.tw-flex
+
+! 2022-03-05 https://now.dstv.com
+now.dstv.com##.Footer__footer__content__17TSo
+
+! 2022-03-06 https://mail.yahoo.com
+mail.yahoo.com##._yb_1y95l._yb_1udbz
+
+! 2022-03-06 https://e.mail.ru
+e.mail.ru##.WqPjYll_WqPjYl2.WqPjYll
+e.mail.ru##.WqPjYNS_WqPjYNi.WqPjYNS_WqPjYNL.WqPjYNS_WqPjYNo.WqPjYNS
+e.mail.ru##.WqPjYox_WqPjYmD.WqPjYox_WqPjYop.WqPjYm2_WqPjY7c.WqPjYoG_WqPjYld.WqPjYox > .WqPjYoc_WqPjYo4.WqPjYoc_WqPjYoE.WqPjYoc
+e.mail.ru##.WqPjYox_WqPjYop.WqPjYm2_WqPjY7c.WqPjYoG_WqPjYld.WqPjYox > .WqPjYoc_WqPjYo4.WqPjYoc_WqPjYoE.WqPjYoc
+
+! 2022-03-06 https://mail.yahoo.com
+mail.yahoo.com##.ybar-att-samsung-in-eyebrow._yb_12vb2._yb_1uggh
+
+! 2022-03-06 https://e.mail.ru
+e.mail.ru##.bognYsN
+e.mail.ru##.bognYsa
+e.mail.ru##.bognYjy_bognYjA.bognYxO_bognYUJ.bognYjP_bognYsC.bognYjy > .bognYjJ_bognYj3.bognYjJ_bognYju.bognYjJ
+e.mail.ru##.u8FUybg_u8FUyxa.u8FUybg_u8FUybP.u8FUybg_u8FUybs.u8FUybg_u8FUybp.u8FUybg
+e.mail.ru##.u8FUypD_u8FUypX.u8FUy6d_u8FUyt2.u8FUypi_u8FUyxH.u8FUypD > .u8FUyp2_u8FUypm.u8FUyp2_u8FUypT.u8FUyp2
+e.mail.ru##.c0nExgh_c0nExgM.c0nExgh_c0nExgO.c0nExgh_c0nExgI.c0nExgh
+e.mail.ru##.c0nExIp_c0nExIl.c0nEx9T_c0nExmt.c0nExI1_c0nExWv.c0nExIp > .c0nExIt_c0nExIq.c0nExIt_c0nExIN.c0nExIt
+e.mail.ru##.VIENys3_VIENyst.VIENys3
+e.mail.ru##.VIENysa
+e.mail.ru##.VIENy6S_VIENy6D.VIENyu3_VIENyh2.VIENy6c_VIENysQ.VIENy6S > .VIENy62_VIENy6X.VIENy62_VIENy60.VIENy62
+e.mail.ru##.I9Jj8TE_I9Jj8Td.I9Jj8TE
+e.mail.ru##.I9Jj8TS
+e.mail.ru##.I9Jj85r_I9Jj852.I9Jj8FC_I9Jj8lU.I9Jj85V_I9Jj8T3.I9Jj85r > .I9Jj85U_I9Jj85P.I9Jj85U_I9Jj85R.I9Jj85U
+
