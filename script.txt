@@ -368,3 +368,34 @@ e.mail.ru##.CEMrTsL_CEMrTsi.CEMrTsL_CEMrTsg.CEMrTsL_CEMrTs8.CEMrTsL
 e.mail.ru##.CEMrT8Q_CEMrT8v.CEMrTKX_CEMrTh6.CEMrT8U_CEMrTSt.CEMrT8Q > .CEMrT86_CEMrT8F.CEMrT86_CEMrT8e.CEMrT86
 e.mail.ru##.wAGc5be_wAGc5ar.wAGc5be
 
+! 2022-03-08 https://e.mail.ru
+e.mail.ru##.LDFpvJ0_LDFpvyV.LDFpvJ0
+
+! 2022-03-10 https://www.canva.com
+www.canva.com##._8aslVA > svg
+
+! 2022-03-10 https://www.youtube.com
+www.youtube.com##ytd-badge-supported-renderer.ytd-video-primary-info-renderer.style-scope:nth-of-type(2)
+www.youtube.com##.ytd-compact-video-renderer.style-scope.badges > .ytd-badge-supported-renderer.style-scope.badge-style-type-ypc.badge
+www.youtube.com##.ytd-compact-video-renderer.style-scope.badges
+www.youtube.com##.ytd-rich-grid-media.style-scope.video-badge
+
+! 2022-03-10 https://etherscan.io
+etherscan.io##.text-dark.position-relative.d-lg-inline-block-alt.d-none
+etherscan.io##div.container:nth-of-type(3)
+
+! 2022-03-10 https://bscscan.com
+bscscan.com##div.container:nth-of-type(3)
+bscscan.com###ContentPlaceHolder1_divSummary > .justify-content-center.d-flex
+
+! 2022-03-10 https://etherscan.io
+etherscan.io###ContentPlaceHolder1_divSummary > .justify-content-center.d-flex
+
+! 2022-03-11 https://pixlr.com
+pixlr.com###try-premium
+||pixlr.com/images/pixlr-logo.svg$image
+||pixlr.com/images/pixlr-logo.svg$image
+pixlr.com###logo > .ic
+pixlr.com###menu-section > .sub-menu
+pixlr.com##.family.wrapper
+
