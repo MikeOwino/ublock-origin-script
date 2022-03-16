@@ -398,4 +398,23 @@ pixlr.com###try-premium
 pixlr.com###logo > .ic
 pixlr.com###menu-section > .sub-menu
 pixlr.com##.family.wrapper
+pixlr.com###search-content > .flex
+||pixlr.com/dad/cut/$subdocument
+||pixlr.com/dad/cut/$subdocument
+pixlr.com###iasriiigh
+pixlr.com###right-space
+pixlr.com##.center.after
+pixlr.com##.pad-40
+
+! 2022-03-14 https://e.mail.ru
+e.mail.ru##.EWyUgH5_EWyUgH6.EWyUgH5_EWyUgHL.EWyUgH5_EWyUgH7.EWyUgH5
+e.mail.ru##.EWyUg72_EWyUg7f.EWyUgAN_EWyUgYp.EWyUg74_EWyUgoc.EWyUg72 > .EWyUg7p_EWyUg7d.EWyUg7p_EWyUg7v.EWyUg7p
+
+! 2022-03-16 https://www.youtube.com
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-secondary
+www.youtube.com###guide-links-primary
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 
