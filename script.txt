@@ -418,3 +418,68 @@ www.youtube.com###guide-links-primary
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 
+! 2022-03-17 https://www.youtube.com
+www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
+
+! 2022-03-18 https://www.tiktok.com
+www.tiktok.com##.efna91q0.tiktok-ms3iqs-DivFrameContainer
+www.tiktok.com##.e1b4u1n1.tiktok-1cx1pch-DivScrollContainer-StyledScroll.e14l9ebt0
+www.tiktok.com##.etsvyce1.tiktok-r0hg2a-DivSideNavContainer
+www.tiktok.com##.e1h4x4t90.tiktok-1nxdjm8-DivFrameWrapper
+www.tiktok.com##.ew8lpw50.tiktok-qxzyco-DivBottomContainer
+www.tiktok.com##.e13wiwn60.tiktok-149t8v1-DivHeaderRightContainer
+www.tiktok.com##.ehk74z00.tiktok-jcprrh-Button-StyledFollowButton.e1v1ai9g0
+www.tiktok.com##.e1xqvjno13.tiktok-1ncsqqe-StyledLogo
+www.tiktok.com##.ehk74z00.tiktok-5xuix8-Button-StyledFollowButton.e1c82oqe6
+
+! 2022-03-19 https://api.whatsapp.com
+api.whatsapp.com##._6jg7
+
+! 2022-03-19 https://www.youtube.com
+www.youtube.com##.ytd-video-secondary-info-renderer.style-scope > tp-yt-paper-button.ytd-subscribe-button-renderer.style-scope
+www.youtube.com###search-icon-legacy
+
+! 2022-03-20 https://eztv.re
+eztv.re##.forum_header_border_normal
+
+! 2022-03-21 https://fmovies.to
+fmovies.to###user
+fmovies.to###logo > [src="https://s1.bunnycdn.ru/assets/sites/fmovies/logo2.png"]
+fmovies.to##.about
+
+! 2022-03-21 https://www.youtube.com
+www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(4)
+
+! 2022-03-25 https://e.mail.ru
+e.mail.ru##.svelte-1le5cdb.ph-projects
+e.mail.ru##a.portal-menu-logo__container:nth-of-type(2)
+e.mail.ru##.SOxt7ME_SOxt7MC.SOxt7ME_SOxt7MV.SOxt7ME_SOxt7Mh.SOxt7ME
+e.mail.ru##.SOxt7hA_SOxt7hv.SOxt7ek_SOxt7F0.SOxt7hD_SOxt7oM.SOxt7hA > .SOxt7h0_SOxt7hP.SOxt7h0_SOxt7hI.SOxt7h0
+
+! 2022-03-25 https://id.mail.ru
+id.mail.ru##.w-x-ph__col_left.w-x-ph__col
+
+! 2022-03-25 https://e.mail.ru
+e.mail.ru##.xjkI0Cw_xjkI0i9.xjkI0Cw
+
+! 2022-03-26 https://replit.com
+replit.com##span.css-1oeklhk:nth-of-type(1)
+
+! 2022-03-28 https://coinmarketcap.com
+||s2.coinmarketcap.com/static/cloud/img/video-icon-128.png?_=5362070$image
+
+! 2022-03-31 https://fmovies.to
+fmovies.to##footer
+fmovies.to###comment > .simple.heading
+fmovies.to##.nav
+||disqus.com/embed/comments/?base=default&f=fmoviescomment&t_i=54508&t_u=https%3A%2F%2Ffmovies.to%2Fwatch%2Fx18vz&t_d=FMovies%20%7C%20Watch%20Naked%20Attraction%20(2016)%20Online%20Free%20on%20fmovies.to&t_t=FMovies%20%7C%20Watch%20Naked%20Attraction%20(2016)%20Online%20Free%20on%20fmovies.to&s_o=default$subdocument
+
+! 2022-04-01 https://e.mail.ru
+e.mail.ru##.yCgWYrO_yCgWYrL.yCgWYrO_yCgWYrX.yCgWYrO_yCgWYrl.yCgWYrO
+e.mail.ru##.yCgWYl9_yCgWYl1.yCgWYtP_yCgWYas.yCgWYlM_yCgWY3r.yCgWYl9 > .yCgWYls_yCgWYle.yCgWYls_yCgWYlo.yCgWYls
+
+! 2022-04-01 https://fmovies.to
+||disqus.com/embed/comments/$subdocument
+fmovies.to##.bl-2 > .bl
+||disqus.com/embed/comments/$subdocument
+
