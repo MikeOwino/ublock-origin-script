@@ -482,4 +482,150 @@ e.mail.ru##.yCgWYl9_yCgWYl1.yCgWYtP_yCgWYas.yCgWYlM_yCgWY3r.yCgWYl9 > .yCgWYls_y
 ||disqus.com/embed/comments/$subdocument
 fmovies.to##.bl-2 > .bl
 ||disqus.com/embed/comments/$subdocument
+fmovies.to###disqus_thread > div
+fmovies.to##.note
+
+! 2022-04-02 https://fmovies.to
+fmovies.to##.shorting
+fmovies.to##.mb-5 > div > div
+fmovies.to##h1
+
+! 2022-04-02 https://e.mail.ru
+e.mail.ru##.fp3dQOV_fp3dQOr.fp3dQOV_fp3dQO5.fp3dQOV_fp3dQOy.fp3dQOV
+e.mail.ru##.fp3dQyu_fp3dQyB.fp3dQjU_fp3dQxD.fp3dQyK_fp3dQRV.fp3dQyu > .fp3dQyD_fp3dQyI.fp3dQyD_fp3dQyn.fp3dQyD
+www.animesuge.to##.embed
+
+! 2022-04-04 https://1337x.to
+1337x.to##[href="/cat/XXX/1/"]
+
+! 2022-04-04 https://wallhaven.cc
+
+! 2022-04-04 https://1337x.to
+1337x.to##footer
+1337x.to##.container > .top-bar-nav > li > [href="/mailbox/1/"]
+1337x.to##.container > .top-bar-nav > li > [href="/uploads/1/"]
+
+! 2022-04-07 https://batakenya.com
+batakenya.com###qtu9prnd4031649334187584
+
+! 2022-04-07 https://1337x.st
+1337x.st##[href="/popular-xxx"]
+1337x.st##footer
+||1337x.st/images/logo.svg$image
+1337x.st##[href="/cat/XXX/1/"]
+
+! 2022-04-07 https://x1337x.ws
+||x1337x.ws/images/logo.svg$image
+x1337x.ws##li:nth-of-type(9)
+||x1337x.ws/images/logo.svg$image
+x1337x.ws##footer
+
+! 2022-04-07 https://x1337x.eu
+||x1337x.eu/images/logo.svg$image
+x1337x.eu##li:nth-of-type(9)
+x1337x.eu##footer
+
+! 2022-04-07 https://x1337x.ws
+||x1337x.ws/images/x2x8.jpg$image
+x1337x.ws##[href="/cat/XXX/1/"]
+||x1337x.ws/images/x2x8.jpg$image
+
+! 2022-04-07 https://x1337x.eu
+x1337x.eu##[href="/cat/XXX/1/"]
+
+! 2022-04-07 https://x1337x.se
+||x1337x.se/images/logo.svg$image
+x1337x.se##li:nth-of-type(9)
+x1337x.se##footer
+||x1337x.se/images/x2x8.jpg$image
+
+! 2022-04-09 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.lepySq.Button-y0gtbx-0
+
+! 2022-04-11 https://cointelegraph.com
+||images.cointelegraph.com/images/*_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png$image
+||images.cointelegraph.com/images/*_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png$image
+
+! 2022-04-12 https://e.mail.ru
+e.mail.ru##.LJarPDp_LJarPD5.LJarPDp_LJarPDf.LJarPDp_LJarPD8.LJarPDp
+e.mail.ru##.LJarP8U_LJarP8b.LJarPO1_LJarPM4.LJarP8w_LJarPc9.LJarP8U > .LJarP84_LJarP8l.LJarP84_LJarP8B.LJarP84
+
+! 2022-04-13 https://app.stormgain.com
+app.stormgain.com##.demo-label
+
+! 2022-04-15 https://coinmarketcap.com
+coinmarketcap.com##div.eCWTbV.sc-1rmt1nr-1.dmJRjr.sc-1uagfi2-0.sc-16r8icm-0:nth-of-type(1)
+coinmarketcap.com##.iMyvIy.sc-1rmt1nr-2.sc-1rmt1nr-0
+
+! 2022-04-21 https://www.pexels.com
+www.pexels.com##.BreakpointGrid_grid-desktop__lrYdh.BreakpointGrid_grid__xedYm > div.BreakpointGrid_column__CTepl > div.BreakpointGrid_item__erUQQ > .Inline_container__eIP5n
+
+! 2022-04-21 https://music.apple.com
+music.apple.com##.hydrated.cwc-upsell-banner
+
+! 2022-04-22 https://poki.com
+||a.poki.com/images/bg-diamante.svg$image
+||a.poki.com/images/bg-diamante.svg$image
+||a.poki.com/images/bg-diamante.svg$image
+
+! 2022-05-01 https://truehost.co.ke
+truehost.co.ke###vevdg0khr5cg1651390144091
+truehost.co.ke###cu6aktb2tl481651390181908
+truehost.co.ke###dad82931u9r81651390199744
+truehost.co.ke###h8qc08e6h0d81651390212495
+truehost.co.ke###nrdvb3nquufg1651390228059
+truehost.co.ke###vvjl9om71m8o1651390245386
+
+! 2022-05-04 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.jjUWAm.Button-y0gtbx-0
+open.spotify.com##.odcjv30UQnjaTv4sylc0
+
+! 2022-05-05 https://fmovies.to
+fmovies.to##.index-base
+
+! 2022-05-05 https://www.radio.net
+www.radio.net##.iAcPVV.sc-1se1e18-3
+
+! 2022-05-06 https://www.xvideos.com
+www.xvideos.com##.terms
+www.xvideos.com##.slogan
+www.xvideos.com###subs-home-toggle-cont
+www.xvideos.com##.pad
+www.xvideos.com###header-mobile-right
+
+! 2022-05-11 https://www.tiktok.com
+www.tiktok.com##.e13wiwn60.tiktok-ba55d9-DivHeaderRightContainer
+www.tiktok.com##.ehk74z00.tiktok-jcprrh-Button-StyledFollowButton.eqy70r40
+www.tiktok.com##.ejkrawn1.tiktok-zxo5ey-ButtonGetAppText
+www.tiktok.com##.e1oyh2e22.tiktok-1wfi3px-DivReportText
+www.tiktok.com##.ehk74z00.tiktok-5xuix8-Button-StyledFollowButton.ec62sd6
+www.tiktok.com##.e13y27ie4.tiktok-1xjmtjf-DivBottomCommentContainer
+www.tiktok.com##.ehk74z00.tiktok-vhw5vq-Button
+www.tiktok.com##.ehk74z00.tiktok-12hrm60-Button-StyledFollowButton.e1jsfwoz5
+www.tiktok.com##.e1jsfwoz4.tiktok-1h3j14u-DivFollowButtonWrapper
+www.tiktok.com##.e1jsfwoz0.tiktok-otme0h-DivShareFollowContainer
+www.tiktok.com##.e1pq4u0v6.tiktok-jzplnh-DivMoreActions > svg
+
+! 2022-05-11 https://temp-mail.org
+temp-mail.org##.section-populer-article
+temp-mail.org##.bottom-seo-text
+temp-mail.org##.mid-intro-text
+
+! 2022-05-12 https://www.youtube.com
+www.youtube.com###owner-and-teaser > .ytd-watch-metadata.style-scope.item
+
+! 2022-05-12 https://unsplash.com
+unsplash.com##.lSBnl.bsjaC.aOKtF
+unsplash.com##.zncgw.H6Xmx
+
+! 2022-05-13 https://www.namecheap.com
+www.namecheap.com##.gb-stand-with-ukraine-banner
+
+! 2022-05-14 https://api.whatsapp.com
+api.whatsapp.com##div._9u5y._9se-._9u6w._9tay._9tau._9v12._9bhj._9bj3._9bir._9t33._9vd6:nth-of-type(2)
+api.whatsapp.com###fallback_block > ._9u5y._9se-._9u6w._9tay._9tau._9v12._9bhj._9bj3._9bir._9t33._9vd6 > ._9vd5
+api.whatsapp.com##._9scr._9scb._9u4i._9vcv._9rne
+
+! 2022-05-15 https://www.youtube.com
+www.youtube.com###comments
 
