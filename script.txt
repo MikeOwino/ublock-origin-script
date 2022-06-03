@@ -629,3 +629,46 @@ api.whatsapp.com##._9scr._9scb._9u4i._9vcv._9rne
 ! 2022-05-15 https://www.youtube.com
 www.youtube.com###comments
 
+! 2022-05-16 https://www.youtube.com
+www.youtube.com###icon > .yt-icon-button.style-scope
+www.youtube.com###copyright
+
+! 2022-05-18 https://app.slingshot.finance
+app.slingshot.finance##.ikmMqK.sc-jMScns
+
+! 2022-05-19 https://www.hostpoa.co.ke
+www.hostpoa.co.ke###ijlomoc24rn81652963603211
+www.hostpoa.co.ke###jsqtf3oln7s1652963603603
+www.hostpoa.co.ke###euoqum1ah1hg1652963867220
+www.hostpoa.co.ke###zk1aele2gf681652963867336
+
+! 2022-05-20 https://replit.com
+replit.com##span.css-1gfrg65:nth-of-type(1)
+replit.com##.css-12fcg48 > .css-18bz6cc
+replit.com##span.css-1gfrg65:nth-of-type(2)
+
+! 2022-05-21 https://open.spotify.com
+open.spotify.com##.McwcCfBLSuXa5UDU1IMw
+
+! 2022-05-22 https://coinmarketcap.com
+||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed-bg.gif$image
+||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed-bg.gif$image
+||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed*$image
+||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed*$image
+||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed*$image
+||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed-bg.gif$image
+coinmarketcap.com##.hOxvfi.lpzyzc-1.lpzyzc-0
+
+! 2022-05-24 https://web.whatsapp.com
+web.whatsapp.com##div._2cNrC:nth-of-type(2)
+web.whatsapp.com##.YtmXM > ._3GlyB
+web.whatsapp.com##._1G3Wr
+web.whatsapp.com##._23P3O
+
+! 2022-05-24 https://itax.kra.go.ke
+itax.kra.go.ke##.templateFooterDivTable
+itax.kra.go.ke###top-band-table-1
+
+! 2022-05-24 https://www.instagram.com
+www.instagram.com##.ZUqME.N9d2H.TxciK._7JkPY.D8xaz.O1flK.HcJZg.XfCBB.IY_1_.CIRqI._4EzTm.acqo5.YBx95.pmxbr.IwRSH.Igw0E.qF0y9.tHaIX
+
