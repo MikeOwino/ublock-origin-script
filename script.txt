@@ -672,3 +672,28 @@ itax.kra.go.ke###top-band-table-1
 ! 2022-05-24 https://www.instagram.com
 www.instagram.com##.ZUqME.N9d2H.TxciK._7JkPY.D8xaz.O1flK.HcJZg.XfCBB.IY_1_.CIRqI._4EzTm.acqo5.YBx95.pmxbr.IwRSH.Igw0E.qF0y9.tHaIX
 
+! 2022-06-07 https://www.jumia.co.ke
+www.jumia.co.ke##.-gy5.-bg-gy05._head.-j-ctr.-i-ctr.row.vb
+
+! 2022-06-08 https://www.imdb.com
+www.imdb.com##.navbar__imdb-pro--toggle.navbar__flyout__text-button-after-mobile.ipc-text-button.ipc-button--on-textPrimary.ipc-button--theme-baseAlt.ipc-button--core-baseAlt.ipc-button--default-height.ipc-button--center-align-content.ipc-button--single-padding.ipc-button
+www.imdb.com##.footer.jbJDWL.sc-kEjbxe.imdb-footer
+www.imdb.com##.navbar__flyout--breakpoint-m.hrCIoP.bjNVbG.sc-jcVebW.sc-fFubgz > .navbar__flyout__text-button-after-mobile.ipc-text-button.ipc-button--on-textPrimary.ipc-button--theme-baseAlt.ipc-button--core-baseAlt.ipc-button--default-height.ipc-button--center-align-content.ipc-button--single-padding.ipc-button
+
+! 2022-06-08 https://preview.themeforest.net
+preview.themeforest.net##.preview__header
+
+! 2022-06-09 https://www.kilimall.co.ke
+www.kilimall.co.ke##.top_adv_div
+www.kilimall.co.ke##.is-vertical.page.el-container > div
+
+! 2022-06-10 https://coinmarketcap.com
+coinmarketcap.com##.seo-text__title
+coinmarketcap.com##.seo-text__content
+
+! 2022-06-10 https://1337x.to
+||1337x.to/atop2.jpg$image
+
+! 2022-06-11 https://1337x.to
+||1337x.to/abot2.jpg$image
+
