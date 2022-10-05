@@ -697,3 +697,125 @@ coinmarketcap.com##.seo-text__content
 ! 2022-06-11 https://1337x.to
 ||1337x.to/abot2.jpg$image
 
+! 2022-08-19 https://vercel.com
+vercel.com##._1m03z2k8u.vyvkel16u.vyvkel1g6.r0xwmmaj.r0xwmm9u.r0xwmmh.r0xwmmm._1m03z2k8o.ztitzr0.vyvkel16o.vyvkel1g0.ztitzr7u.ztitzr20.ztitzr7p.ztitzr7o.ztitzr4c._3u7mtq6e.ztitzr7z._3u7mtq3u._3u7mtq16._3u7mtqi._182hpu313._182hpu3t._182hpu3j._182hpu39
+
+! 2022-08-19 https://e.mail.ru
+e.mail.ru##.q7Q9jBs_q7Q9jBW.q7Q9jBs_q7Q9jBx.q7Q9jBs_q7Q9jBp.q7Q9jBs
+e.mail.ru##.q7Q9jp0_q7Q9jpt.q7Q9jMm_q7Q9jId.q7Q9jpC_q7Q9j2t.q7Q9jp0 > .q7Q9jpS_q7Q9jpe.q7Q9jpS_q7Q9jpV.q7Q9jpS
+
+! 2022-08-20 https://novastream.to
+novastream.to##.py-20.copyright
+novastream.to##.mt-20.footer-menu
+
+! 2022-08-20 https://coinmarketcap.com
+coinmarketcap.com##.fDmQNv.sc-1bxk59h-0 > .ivGjzC.mhbkgs-0 > .carousel-items-wrapper
+
+! 2022-08-21 https://www.whatsuptv.app
+www.whatsuptv.app##.bottom_bar_main > p
+www.whatsuptv.app##.bottom_bar_main
+
+! 2022-08-23 https://www.speedtest.net
+www.speedtest.net##.masthead-dark.masthead
+
+! 2022-08-23 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.jyfxNy.Button-y0gtbx-0
+
+! 2022-08-24 https://compressjpeg.com
+compressjpeg.com##.ha_top.ha > div
+compressjpeg.com##.ha_top.ha
+compressjpeg.com##.header__right > div
+compressjpeg.com##.header__right
+
+! 2022-08-26 https://themeforest.net
+||cdn.banner-manager.customer.envato.com/header_banner/background_image/3ea7582752.png$image
+||cdn.banner-manager.customer.envato.com/header_banner/background_image/3ea7582752.png$image
+||cdn.banner-manager.customer.envato.com/header_banner/background_image/3ea7582752.png$image
+themeforest.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-content
+themeforest.net##.js-banner__link.headerstrip
+themeforest.net##.headerstrip-wrapper
+themeforest.net##.shared-banner_component__visible
+
+! 2022-08-29 https://jsitor.com
+jsitor.com##.navbar
+
+! 2022-08-31 https://pixlr.com
+pixlr.com##body > [href="/pricing/"]
+
+! 2022-09-03 https://www.canva.com
+www.canva.com##._2l-hHA.fFOiLQ.Ekl2FA.RNFNIA.SSiHbw
+www.canva.com##.fFOiLQ.Ekl2FA.RNFNIA.SSiHbw
+
+! 2022-09-03 https://replit.com
+replit.com##.css-q8wz7s.floating-icon-wrapper.jsx-1380937205
+
+! 2022-09-04 https://open.spotify.com
+open.spotify.com##.Foyk_HJx16yh22JYmQ56 > .eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzvkmvhpyE.link-subtle
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.cuhCvm.Button-y0gtbx-0
+
+! 2022-09-07 https://languagetool.org
+languagetool.org##.center.description--sub-title
+languagetool.org##.center.headline--title.headline
+
+! 2022-09-09 https://theflixer.tv
+theflixer.tv##iframe:nth-of-type(3)
+
+! 2022-09-09 https://www.jumia.co.ke
+www.jumia.co.ke##section.-pvs.col16:nth-of-type(2)
+
+! 2022-09-16 https://www.canva.com
+www.canva.com##.ETF18w.DwkdQQ.uRvRjQ.Ro5rvA.zQlusQ.cwOZMg.lsXp-w.NT2yCg.Eph8Hg.VvwWbQ.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+
+! 2022-09-16 https://coinmarketcap.com
+coinmarketcap.com##.fDmQNv.sc-1bxk59h-0
+
+! 2022-09-24 https://open.spotify.com
+open.spotify.com##.rqZoelG5u2vHb3kedEph.cuhCvm.Button-y0gtbx-0
+
+! 2022-09-24 https://onedrive.live.com
+onedrive.live.com##.od-PremiumUpsellBanner
+
+! 2022-09-25 https://app.netlify.com
+app.netlify.com##.hover\:tw-underline.dark\:tw-text-white.dark\:tw-bg-gray.tw-text-black.tw-font-semibold.tw-bg-gray-light.tw-whitespace-nowrap.tw--top-px.tw-transition.tw-text-sm.tw-self-center.tw-rounded-sm.tw-relative.tw-py-\[2px\].tw-px-\[4px\].tw-leading-2.tw-inline-block.tw-flex-0-auto.tw-ease-out.tw-duration-200.tw-capitalize.tw-align-baseline
+app.netlify.com##li.tw-m-\[4px\].tw-items-center.tw-flex:nth-of-type(8)
+app.netlify.com##li.tw-m-\[4px\].tw-items-center.tw-flex:nth-of-type(9)
+app.netlify.com##li.tw-m-\[4px\].tw-items-center.tw-flex:nth-of-type(7)
+
+! 2022-09-27 https://www.canva.com
+www.canva.com##.ETF18w.J3FTYg.uRvRjQ.Ro5rvA.zQlusQ.cwOZMg.lsXp-w.YPTJew.Eph8Hg.VvwWbQ.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+
+! 2022-09-27 https://fast.com
+fast.com##.powered-by-container
+fast.com##.logo-container
+fast.com##.footer-container
+https://www.istockphoto.com
+https://media.istockphoto.com
+
+! 2022-09-27 https://www.pexels.com
+www.pexels.com##.Inline_container__eIP5n
+
+! 2022-09-29 https://dashboard.alchemy.com
+dashboard.alchemy.com##.css-coibq6
+dashboard.alchemy.com##.css-c56do7.trappings-navbar-settings-referral-button
+
+! 2022-09-30 https://www.speedtest.net
+www.speedtest.net##.footer
+
+! 2022-09-30 https://whoer.net
+whoer.net##.header__nav > .button.header__button
+whoer.net##.header__logo
+
+! 2022-09-30 https://1337x.to
+1337x.to###l5fe45360f9f107a425e2b68427325d127556c52a > div
+
+! 2022-10-03 https://nappy.co
+nappy.co##.spon-img-div.container
+nappy.co##.spon-div.container
+nappy.co##.content.\33 443 > .position-relative.item
+nappy.co##.content.\33 441 > .position-relative.item
+nappy.co##.content.\33 360 > .position-relative.item > div
+
+! 2022-10-05 https://unsplash.com
+unsplash.com##.vZKGD.KHq0c.ztehP
+unsplash.com##.KHq0c.ztehP > div
+
