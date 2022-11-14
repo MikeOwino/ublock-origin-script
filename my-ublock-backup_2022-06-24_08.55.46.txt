@@ -784,10 +784,7 @@ app.netlify.com##li.tw-m-\[4px\].tw-items-center.tw-flex:nth-of-type(7)
 ! 2022-09-27 https://www.canva.com
 www.canva.com##.ETF18w.J3FTYg.uRvRjQ.Ro5rvA.zQlusQ.cwOZMg.lsXp-w.YPTJew.Eph8Hg.VvwWbQ.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
 
-! 2022-09-27 https://fast.com
-fast.com##.powered-by-container
-fast.com##.logo-container
-fast.com##.footer-container
+
 https://www.istockphoto.com
 https://media.istockphoto.com
 
@@ -818,15 +815,3 @@ nappy.co##.content.\33 360 > .position-relative.item > div
 ! 2022-10-05 https://unsplash.com
 unsplash.com##.vZKGD.KHq0c.ztehP
 unsplash.com##.KHq0c.ztehP > div
-
-! 2022-10-06 https://fast.com
-fast.com##.your-speed-message > .localized
-fast.com##.succeeded.speed-units-container
-fast.com##.speed-units-container
-fast.com##.spinner
-fast.com##.oc-icon-refresh.speed-progress-indicator-icon.oc-icon
-fast.com##.succeeded.circle.speed-progress-indicator
-fast.com##.speed-progress-indicator-icon.oc-icon-pause.oc-icon
-fast.com##.circle.in-progress.speed-progress-indicator
-fast.com##.speed-right-container
-
