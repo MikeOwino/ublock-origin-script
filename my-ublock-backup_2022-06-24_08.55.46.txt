@@ -1,3 +1,9 @@
+! 2023-01-19 https://open.spotify.com
+open.spotify.com##.Foyk_HJx16yh22JYmQ56 > .eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzvkmvhpyE.link-subtle
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.lprIeE.Button-sc-y0gtbx-0
+open.spotify.com##.os-host-transition.tojGvx6tcIBmKlICMJAZ.os-host-scrollbar-vertical-hidden.os-host-scrollbar-horizontal-hidden.os-host-resize-disabled.os-theme-spotify.os-host-foreign.os-host > .os-padding > .os-viewport-native-scrollbars-invisible.os-viewport > .os-content
+open.spotify.com##.os-host-transition.tojGvx6tcIBmKlICMJAZ.os-host-scrollbar-vertical-hidden.os-host-scrollbar-horizontal-hidden.os-host-resize-disabled.os-theme-spotify.os-host-foreign.os-host > .os-padding > .os-viewport-native-scrollbars-invisible.os-viewport
+open.spotify.com##.os-host-transition.tojGvx6tcIBmKlICMJAZ.os-host-scrollbar-vertical-hidden.os-host-scrollbar-horizontal-hidden.os-host-resize-disabled.os-theme-spotify.os-host-foreign.os-host > .os-padding
 ! 2021-12-19 https://coinmarketcap.com
 coinmarketcap.com##.jiWaSe.ii1g3i-0 > .ivGjzC.mhbkgs-0 > .carousel-items-wrapper
 coinmarketcap.com##.gRdZsE.sc-1o3rzds-1.sc-1o3rzds-0
