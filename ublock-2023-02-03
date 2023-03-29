@@ -161,9 +161,6 @@ getrevue.bloodgoodbtc.com###subscribe-bar
 ! 2022-01-21 https://www.netflix.com
 www.netflix.com##.error.message
 
-! 2022-01-22 https://api.whatsapp.com
-api.whatsapp.com##._8ibq._2yyk > ._2z07._2z0c._2y_c._36or
-api.whatsapp.com##._8ibx
 
 ! 2022-01-24 https://www.tipranks.com
 www.tipranks.com##.ipadpro_displaynone.ml3.whiteSpacenowrap.hoverBgorange.laptop_fontSize9.laptop_lineHeight1.mx4.flexrcc.fontSize7.pxmedium4.fontFamilyregular.fontWeightsemibold.borderColororange-light.bgorange-light.radiiround.h_pxsmall1.colorwhite
@@ -207,11 +204,6 @@ player.181fm.com##.container
 player.181fm.com##.share.button-dropdown--icon.button-dropdown
 ||player.181fm.com/configs/images/181fm.png$image
 
-
-! 2022-02-02 https://web.whatsapp.com
-web.whatsapp.com##div._2cNrC:nth-of-type(1)
-web.whatsapp.com##._1RAKT
-web.whatsapp.com##.zaKsw
 
 ! 2022-02-03 https://unsplash.com
 unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .kG7WW
@@ -438,8 +430,6 @@ www.tiktok.com##.ehk74z00.tiktok-jcprrh-Button-StyledFollowButton.e1v1ai9g0
 www.tiktok.com##.e1xqvjno13.tiktok-1ncsqqe-StyledLogo
 www.tiktok.com##.ehk74z00.tiktok-5xuix8-Button-StyledFollowButton.e1c82oqe6
 
-! 2022-03-19 https://api.whatsapp.com
-api.whatsapp.com##._6jg7
 
 ! 2022-03-19 https://www.youtube.com
 www.youtube.com##.ytd-video-secondary-info-renderer.style-scope > tp-yt-paper-button.ytd-subscribe-button-renderer.style-scope
@@ -627,10 +617,6 @@ unsplash.com##.zncgw.H6Xmx
 ! 2022-05-13 https://www.namecheap.com
 www.namecheap.com##.gb-stand-with-ukraine-banner
 
-! 2022-05-14 https://api.whatsapp.com
-api.whatsapp.com##div._9u5y._9se-._9u6w._9tay._9tau._9v12._9bhj._9bj3._9bir._9t33._9vd6:nth-of-type(2)
-api.whatsapp.com###fallback_block > ._9u5y._9se-._9u6w._9tay._9tau._9v12._9bhj._9bj3._9bir._9t33._9vd6 > ._9vd5
-api.whatsapp.com##._9scr._9scb._9u4i._9vcv._9rne
 
 ! 2022-05-15 https://www.youtube.com
 www.youtube.com###comments
@@ -664,12 +650,6 @@ open.spotify.com##.McwcCfBLSuXa5UDU1IMw
 ||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed*$image
 ||s2.coinmarketcap.com/static/cloud/img/events/event-2022-collapsed-bg.gif$image
 coinmarketcap.com##.hOxvfi.lpzyzc-1.lpzyzc-0
-
-! 2022-05-24 https://web.whatsapp.com
-web.whatsapp.com##div._2cNrC:nth-of-type(2)
-web.whatsapp.com##.YtmXM > ._3GlyB
-web.whatsapp.com##._1G3Wr
-web.whatsapp.com##._23P3O
 
 ! 2022-05-24 https://itax.kra.go.ke
 itax.kra.go.ke##.templateFooterDivTable
@@ -822,66 +802,37 @@ nappy.co##.content.\33 360 > .position-relative.item > div
 unsplash.com##.vZKGD.KHq0c.ztehP
 unsplash.com##.KHq0c.ztehP > div
 
-! 2023-01-20 https://www.walmart.com
-||i5.walmartimages.com/dfw/63fd9f59-b3e1/7a569e53-f29a-4c3d-bfaf-6f7a158bfadd/v1/walmartLogo.svg$image
+! 2023-03-14 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.fmWLzA.Button-sc-y0gtbx-0
+open.spotify.com##.jyIHxm.Footer__StyledTopLinks-sc-xwm5vq-2
+open.spotify.com##.iVvSRi.Footer__TopSection-sc-xwm5vq-1
+open.spotify.com##.eCtSle.Footer__StyledFooter-sc-xwm5vq-0
+open.spotify.com##.active.WJsKJXEbycxxq8OcGHM1.liKqY2CEkAKTwX2SfNCu
+open.spotify.com##.active.moDRd9td0KtitPDzR7OJ.ATUzFKub89lzvkmvhpyE.link-subtle
+open.spotify.com##.WJsKJXEbycxxq8OcGHM1.liKqY2CEkAKTwX2SfNCu
 
-! 2023-01-25 https://www.jumia.co.ke
-www.jumia.co.ke##a.-mra.-i-ctr.-df > .ic
+! 2023-03-18 https://www.tradingview.com
+www.tradingview.com##.tv-header__offer-button
 
-! 2023-01-27 https://gallant-mahavira.35-178-207-26.plesk.page
-||gallant-mahavira.35-178-207-26.plesk.page/modules/lite-banners/images/banner-v2-1.png$image
+! 2023-03-19 https://app.netlify.com
+app.netlify.com##.dark\:focus\:tw-bg-gray-dark.dark\:hover\:tw-bg-gray-darker.tw-text-left.tw-leading-3.tw-p-1.dark\:hover\:tw-bg-transparent.dark\:tw-text-white.tw-text-black.tw-w-auto.\!tw-leading-none.tw-font-semibold.tw-text-xl.btn-tertiary--standard.btn-tertiary.btn-default.btn
+app.netlify.com##.h2
+||d33wubrfki0l68.cloudfront.net/5f2bbf49320d636034b06f91/d2172ef4375b9f60a017/android-chrome-192x192.png$image
+app.netlify.com##.tw-object-cover.tw-w-full.tw-h-full.tw-block
+app.netlify.com##.tw-rounded-lg.tw-h-logo-lg.tw-w-logo-lg.tw-overflow-hidden
+app.netlify.com##div.layout-overview-row:nth-of-type(3)
 
-! 2023-01-29 https://e.mail.ru
-e.mail.ru##.kum2Mi8_kum2MiV.kum2MEq_kum2MKq.kum2MEE_kum2MQq.kum2Mi8 > .kum2MEM_kum2MEF.kum2MEM_kum2ME5.kum2MEM
-e.mail.ru##.kum2MEo_kum2MES.kum2MEs_kum2ME6.kum2Mi8_kum2MiV.kum2MEq_kum2MEf.kum2MEE_kum2MQq.kum2Mi8 > .kum2MEM_kum2MEF.kum2MEM_kum2ME5.kum2MEM
+! 2023-03-07 https://chat.openai.com
+chat.openai.com##a.text-sm.cursor-pointer.text-white.duration-200.transition-colors.hover\:bg-gray-500\/10.rounded-md.gap-3.items-center.px-3.py-3.flex:nth-of-type(3)
+chat.openai.com##a.text-sm.cursor-pointer.text-white.duration-200.transition-colors.hover\:bg-gray-500\/10.rounded-md.gap-3.items-center.px-3.py-3.flex:nth-of-type(4)
 
-! 2023-01-31 https://gallant-mahavira.35-178-207-26.plesk.page
-||gallant-mahavira.35-178-207-26.plesk.page/modules/lite-banners/images/banner-v3.png$image
+! 2023-03-22 https://mail.yahoo.com
+mail.yahoo.com##._yb_j2yfu._yb_1v9mx._yb_12rwm
 
-! 2023-02-01 https://e.mail.ru
-e.mail.ru##.m3lA02v_m3lA02B.m3lA02O_m3lA02f.m3lA0JE_m3lA060.m3lA0JE_m3lA0J5.m3lA02T_m3lA024.m3lA022_m3lA0XT.m3lA0JE > .m3lA02i_m3lA02V.m3lA02i_m3lA02d.m3lA02i
+! 2023-03-22 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.iVrvaH.Button-sc-y0gtbx-0
 
-! 2023-02-01 https://imagecolorpicker.com
-imagecolorpicker.com##.justify-between.flex-1.flex-col.flex > .w-full.grid
-
-! 2023-02-02 https://imagecolorpicker.com
-imagecolorpicker.com##.note.jsx-2011474381
-
-! 2023-02-03 https://imageresizer.com
-imageresizer.com##.relative.border-t-irGray-200.border-t.py-\[5px\] > .px-1.py-0\.5.bg-irGray-200.capitalize.text-xs.top-0.right-0.absolute > span > .false
-
-! 2023-02-10 https://gallant-mahavira.35-178-207-26.plesk.page
-||gallant-mahavira.35-178-207-26.plesk.page/modules/lite-banners/images/banner-v1.png$image
-
-! 2023-02-14 https://vectorizer.com
-vectorizer.com##.ha_top.ha > div
-vectorizer.com##.ha_top.ha
-
-! 2023-02-16 https://www.youtube.com
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-
-! 2023-02-20 https://www.youtube.com
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(3)
-
-! 2023-02-28 https://combinepdf.com
-combinepdf.com##.ha_top.ha > div
-combinepdf.com##.ha_top.ha
-combinepdf.com##.header__right > div
-combinepdf.com##.header__right
-combinepdf.com##.page__files > .ha_bottom.ha > div
-combinepdf.com##.page__files > .ha_bottom.ha
-
-! 2023-02-28 https://pdfcompressor.com
-pdfcompressor.com##.header__right > div
-pdfcompressor.com##.header__right
-pdfcompressor.com##.ha_top.ha > div
-pdfcompressor.com##.ha_top.ha
-pdfcompressor.com##.page__files > .ha_bottom.ha > div
-pdfcompressor.com##.page__files > .ha_bottom.ha
-
-! 2023-03-02 https://www.youtube.com
-www.youtube.com##h3.ytd-guide-section-renderer.style-scope > .ytd-guide-section-renderer.style-scope
+! 2023-03-27 https://www.figma.com
+www.figma.com##.text--_fontBase--VaHfk.text--fontPos11--rO47d.sidebar--sidebarSection--Wp4ag.team_link--team--rTYku.sidebar--selected--gnFrk.team_link--selectedTeam--3yi4b > .team_link--teamDetails--Gzl-J > .team_link--badgeButton--vFooD
+www.figma.com##.text--_fontBase--VaHfk.text--fontPos11--rO47d.sidebar--sidebarSection--Wp4ag.team_link--team--rTYku.team_link--teamSidebarRedesign--KRNYJ > .team_link--teamDetails--Gzl-J > .team_link--badgeButton--vFooD
 
